@@ -1,0 +1,9 @@
+[package]
+name = "wasm_sorting"
+version = "0.1.0"
+authors = ["mfp46 <mfp46@drexel.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
